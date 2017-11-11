@@ -1,4 +1,4 @@
-public class PercentDiscoutStrategy
+public class PercentDiscountStrategy
   implements DiscountStrategy {
 
   private float pct;
